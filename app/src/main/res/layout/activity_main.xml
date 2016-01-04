@@ -28,7 +28,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_marginTop="?attr/actionBarSize"
-        tools:openDrawer="start">
+        tools:openDrawer="end">
 
         <include layout="@layout/content_main" />
 
